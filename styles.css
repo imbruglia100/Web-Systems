@@ -23,7 +23,7 @@ nav a{
 
 .banner {
     visibility: visible;
-    background-image: url('/banner.jpg') ;
+    background-image: url('banner.jpg') ;
     background-repeat: no-repeat;
     background-size: cover;
     width: 100%;
